@@ -1,1 +1,1 @@
-# Finding-Global-Extermums-by-Particle-Swarm-Optimization
+# Finding-Global-Extremums-by-Particle-Swarm-Optimization
